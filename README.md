@@ -1,4 +1,4 @@
 # InstagramDiO
-Recriando Pagina do Instagram
+Recriando Pagina inicial do Instagram
 
 Exercício para Digital Innovaition One
